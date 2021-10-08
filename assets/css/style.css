@@ -73,7 +73,9 @@ nav > ul > li > ul {
 	position: absolute;
 	left: 0;
 	min-width: 20rem;
+	box-shadow: 3px 3px 10px rgba(0,0,0,.5);
 }
+
 nav > ul > li:hover > ul {
 	display: block;
 	margin: 0;
